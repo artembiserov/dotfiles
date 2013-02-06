@@ -40,11 +40,11 @@ source $ZSH/oh-my-zsh.sh
 # alias rzshrc='source ~/.zshrc'
 
 # Default editor
-# export EDITOR='~/bin/subl --wait'
+export EDITOR='~/bin/subl --wait'
 
 # RVM
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 
 # recommended by brew doctor
-export PATH="/usr/local/bin:/usr/local/sbin:$HOME/.rvm/bin:$PATH"]
+export PATH="/usr/local/bin:/usr/local/sbin:$HOME/.rvm/bin:$HOME/bin:$PATH"]
 

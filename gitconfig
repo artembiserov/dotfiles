@@ -1,6 +1,6 @@
 [user]
-  name = USER_NAME
-  email = EMAIL@flatstack.com
+  name = Artem Biserov
+  email = artem.biserov@flatstack.com
 [color]
   branch = auto
   diff = auto
@@ -12,8 +12,8 @@
 [core]
   autocrlf = false
   editor = subl --wait
-  excludesfile = /Users/USER/.gitignore
+  excludesfile = /Users/artem/.gitignore
 [mergetool]
   keepBackup = true
 [github]
-  user = GIT_USER_NAME
+  user = Biserov
