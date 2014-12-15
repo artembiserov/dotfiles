@@ -16,4 +16,9 @@
 [mergetool]
   keepBackup = true
 [github]
-  user = Biserov
+  user = artembiserov
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
