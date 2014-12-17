@@ -40,5 +40,5 @@ source $ZSH/oh-my-zsh.sh
 # alias rzshrc='source ~/.zshrc'
 
 # recommended by brew doctor
-export PATH="/usr/local/bin:/usr/local/sbin:$HOME/bin:$PATH"
+#export PATH="/usr/local/bin:/usr/local/sbin:$HOME/bin:$PATH"
 
