@@ -11,7 +11,7 @@
   summary = true
 [core]
   autocrlf = false
-  editor = subl --wait
+  editor = vim
   excludesfile = /Users/artem/.gitignore
 [mergetool]
   keepBackup = true
