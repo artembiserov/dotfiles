@@ -12,13 +12,17 @@
 [core]
   autocrlf = false
   editor = vim
-  excludesfile = /Users/artem/.gitignore
+  excludesfile = /Users/artembiserov/.gitignore
 [mergetool]
   keepBackup = true
 [github]
   user = artembiserov
 [alias]
-	co = checkout
-	ci = commit
-	st = status
-	br = branch
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+[url "git@github.com:"]
+  insteadOf = https://github.com/
+[diff "ansible-vault"]
+	textconv = ansible-vault viewn
